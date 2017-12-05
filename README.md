@@ -4,14 +4,16 @@ The player controls the red ball and needs to move it to the end of each level.
 
 # 2. Installation
 To play to game, you need to download the game_Data folder and game.exe file.
-Launch the game.exe file to play.
+Launch the game.exe file to play. <br>
 To open the project itself, you need to download the repository and have the Unity engine installed.
+All assets, scenes and scripts are located in the Assets folder. <br>
 Open the Unity Editor, press open, navigate to the project folder and press select folder.
-All assets, scenes and scripts are located in the Assets folder.
+You can download the Unity Editor [**here**](https://unity3d.com/get-unity/download).
 
 # 3. Details
-Ball.cs and BallUserControls.cs were taken from the Standard Assets.
-Health.cs, Damage.cs and TargetMover.cs were taken from class and repurposed here.
-LoadSceneOnClick.cs, PauseGame.cs, QuitOnClick.cs and SelectOnInput.cs were written with the help of online tutorials.
-Models and materials were taken from the Stanard Assets.
-The skybox package Farland Skies - Simple Cumulus was downloaded from the Asset Store, created by Borodar.
+Ball.cs and BallUserControls.cs were taken from the Standard Assets. <br>
+Health.cs, Damage.cs and TargetMover.cs were taken from class and repurposed here. <br>
+LoadSceneOnClick.cs, PauseGame.cs, QuitOnClick.cs and SelectOnInput.cs were written with the help of online tutorials. <br>
+Models and materials were taken from the Stanard Assets. <br>
+The skybox package Farland Skies - Simple Cumulus was downloaded from the Asset Store, created by Borodar. 
+You can see it [**here**](https://www.assetstore.unity3d.com/en/#!/content/62565).
