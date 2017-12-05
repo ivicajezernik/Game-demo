@@ -5,6 +5,9 @@ The player controls the red ball and needs to move it to the end of each level.
 # 2. Installation
 To play to game, you need to download the game_Data folder and game.exe file.
 Launch the game.exe file to play.
+To open the project itself, you need to download the repository and have the Unity engine installed.
+Open the Unity Editor, press open, navigate to the project folder and press select folder.
+All assets, scenes and scripts are located in the Assets folder.
 
 # 3. Details
 Ball.cs and BallUserControls.cs were taken from the Standard Assets.
